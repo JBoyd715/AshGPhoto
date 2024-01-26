@@ -1,3 +1,5 @@
+
+
 function Home(){
     return(
     <div className="home">
@@ -11,6 +13,7 @@ function Home(){
             </div>
             <h2>THANK YOU FOR BEING HERE!</h2>
         </div>
+       
         
         
     </div>
