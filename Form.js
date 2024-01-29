@@ -80,7 +80,7 @@ function Form(){
                         <textarea 
                         value={message}
                         onChange={(e) => setMessage(e.target.value)}></textarea>
-                        <button type="submit"> SUBMIT</button>
+                        <button type="submit" className="submit"> SUBMIT</button>
                     </form>
 
                  </div>  
